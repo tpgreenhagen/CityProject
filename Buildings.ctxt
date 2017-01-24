@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ w\ h
+comment0.target=Buildings(int,\ int,\ java.awt.Color,\ int,\ int)
+comment1.params=x\ y\ c\ w\ h
+comment1.target=void\ set(int,\ int,\ java.awt.Color,\ int,\ int)
+comment2.params=r
+comment2.target=void\ setRound(int)
+comment3.params=page
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4
